@@ -1,3 +1,9 @@
+Phoneum(PHT)
+Phoneum is a mobile cryptocurrency, designed to deliver a simplified user experience and platform that enables all users to fully participate in the new cryptocurrency economy through gamification.
+
+
+
+
 # wallet-cli [![Build Status](https://travis-ci.org/tronprotocol/wallet-cli.svg?branch=master)](https://travis-ci.org/tronprotocol/wallet-cli)
 
 Welcome to use the Wallet-CLI.  
